@@ -14,4 +14,7 @@
 	1.测距用的是HC-SR04+或者HC-SR05超声波模块；
 	HC-SR04+：是4针的一个模块； HC-SR05：则是五针的； 相差在精度以及最远距离和用于报警的一个针脚；
 	资料：https://pan.baidu.com/s/16LYVIKC1ceg0_8gkpNbLNA
-	2.
+	2.显示用的是8×8点阵，驱动芯片是MAX7219，淘宝上有现成的模块可以自己去买；
+	资料：https://pan.baidu.com/s/14zr_O5GHbOEHf6cMxyXDHw
+
+3.语音报警选用
