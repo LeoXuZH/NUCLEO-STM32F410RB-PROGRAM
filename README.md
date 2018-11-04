@@ -23,4 +23,5 @@
 	用论坛送的Nucleo-STM32F410RB板卡；
 	资料：https://pan.baidu.com/s/1OR8aOI75gfl5SfSZQS5lGQ
 	使用板卡第一次烧录程序，测试程序是官网给的例程，JLINK与板卡的连接方式如下图：
-![Image](https://github.com/LeoXuZH/NUCLEO-STM32F410RB-PROGRAM/blob/master/SWD%E6%8E%A5%E7%BA%BF%E6%96%B9%E5%BC%8F.png)
+	![Image](https://github.com/LeoXuZH/NUCLEO-STM32F410RB-PROGRAM/blob/master/SWD%E6%8E%A5%E7%BA%BF%E6%96%B9%E5%BC%8F.png)
+	J-link的9,4,7,13分别和 cn4的2,3,4,6互连． 
