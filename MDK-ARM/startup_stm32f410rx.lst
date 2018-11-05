@@ -602,8 +602,8 @@ ARM Macro Assembler    Page 10
               00000000 
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=002\startup_stm32f410rx.d -o002\startup_stm32f410rx.o -IF:\STM3
-2F4XX\NUCLEO-F410RB\test1\002\MDK-ARM\RTE -ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0
+erwork --depend=002\startup_stm32f410rx.d -o002\startup_stm32f410rx.o -IF:\GitH
+ub\NUCLEO-STM32F410RB-PROGRAM\MDK-ARM\RTE -ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0
 \CMSIS\Include -ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\CMSIS\Dev
 ice\ST\STM32F4xx\Include --predefine="__MICROLIB SETA 1" --predefine="__UVISION
 _VERSION SETA 521" --predefine="_RTE_ SETA 1" --predefine="STM32F410Rx SETA 1" 
